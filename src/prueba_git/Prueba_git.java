@@ -15,8 +15,9 @@ public class Prueba_git {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola7");
-        // TODO code application logic here
+        System.out.println("Hola");
+        System.out.println("Hola");
+System.out.println("Hola");        // TODO code application logic here
     }
     
 }
